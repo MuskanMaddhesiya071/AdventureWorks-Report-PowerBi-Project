@@ -55,6 +55,9 @@ This report was developed as part of a data analytics learning project to:
 
 
 ## Screenshots
+### Relationship between tables
+<img width="1455" height="797" alt="Screenshot 2025-07-21 102520" src="https://github.com/user-attachments/assets/8571ecf7-8856-4e50-930c-1397d4e8d566" />
+
 
 ### 1. Sales Overview
 Visualizes total revenue, order volume, and sales by category and region over time.  
