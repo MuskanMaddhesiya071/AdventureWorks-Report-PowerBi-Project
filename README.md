@@ -84,6 +84,10 @@ Highlights top and bottom selling products by category and date.
 ### 6. key Influencers
 ![key influencers](https://github.com/user-attachments/assets/5ec87887-1539-4bcc-868d-4d3b6abee9c6)
 
+### 7. Model Information
+!<img width="1160" height="664" alt="Screenshot 2025-08-27 155320" src="https://github.com/user-attachments/assets/45815382-40ab-4234-9278-5ce7cfb3ffb6" />
+
+
 ---
 
 **Disclaimer:** This project uses Microsoft’s publicly available **AdventureWorks** sample data and is intended for educational and portfolio purposes only.
